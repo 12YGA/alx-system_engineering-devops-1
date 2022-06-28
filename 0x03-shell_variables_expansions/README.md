@@ -1,4 +1,4 @@
-0-alias -> Create a script that creates an alias. Name: ls Value: rm *
+ of the brood need to be an odd numberi-alias -> Create a script that creates an alias. Name: ls Value: rm *
 1. Hello you -> Create a script that prints hello user, where user is the current Linux user.
 2. The path to success is to take massive, determined action -> Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3. If the path be beautiful, let us not ask where it leads -> Create a script that counts the number of directories in the PATH.
@@ -15,4 +15,4 @@ The number in base 2 is stored in the environment variable BINARY
 13. Floats -> Write a script that prints a number with two decimal places, followed by a new line.The number will be stored in the environment variable NUM.
 14. Decimal to Hexadecimal -> Write a script that converts a number from base 10 to base 16.The number in base 10 is stored in the environment variable DECIMAL
 15. Everyone is a proponent of strong encryption -> Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
-
+16. The eggs of the brood need to be an odd number -> 16. The eggs of the brood need to be an odd number. Write a script that prints every other line from the input, starting with the first line.
